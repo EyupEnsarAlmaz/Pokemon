@@ -1,6 +1,11 @@
-# httpjson
+# Pokemon/Pokedex
 
-A new Flutter project.
+While making the application it was hard for me because i used what i learned. I confused some part. I should learn json part more. I copied little bit xd
+
+![pokedex1](https://user-images.githubusercontent.com/67228806/159516743-56651d14-d037-476b-95ea-bd577862e834.png)
+![pokedex2](https://user-images.githubusercontent.com/67228806/159516783-e1cc26b7-b43b-4847-957b-454b4d12b0b0.png)
+
+
 
 ## Getting Started
 
